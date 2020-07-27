@@ -18,6 +18,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Ronaldo\IdeaProjects\nodejs-postgre-restapi\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1f5mtxftMGtfI336BZlhdhXKCMN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -58,7 +65,7 @@
       <workItem from="1595593200848" duration="4345000" />
       <workItem from="1595852469467" duration="2724000" />
       <workItem from="1595859169318" duration="474000" />
-      <workItem from="1595859715568" duration="7977000" />
+      <workItem from="1595859715568" duration="8227000" />
     </task>
     <servers />
   </component>
